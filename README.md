@@ -23,7 +23,3 @@ I'm Elodie, I'm 35 years old and developer since 11 years.
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
 </div>
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=eecija&theme=dark)](https://git.io/streak-stats)
