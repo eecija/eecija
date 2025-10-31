@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Elodie, I'm 35 years old and developer since 11 years. 
+I'm Elodie
 
 - I'm currently working as front-end developer for Valtech.
 - I work mainly with Vue.js and Typescript.
