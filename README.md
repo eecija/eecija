@@ -23,5 +23,3 @@ I'm Elodie
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eecija)](https://github.com/anuraghazra/github-readme-stats)
