@@ -2,7 +2,7 @@
 
 I'm Elodie
 
-- I'm currently working as front-end developer for Valtech.
+- I'm currently working as front-end developer for Valtech / Louis Vuitton.
 - I work mainly with Vue.js and Typescript.
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -23,3 +23,5 @@ I'm Elodie
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eecija)](https://github.com/anuraghazra/github-readme-stats)
